@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 testing line
 commit1
+=======
+untesting
+>>>>>>> 23a2c85d05f38aa65cc2a57e55b7e6e07b18911f
 456
 789
 987
